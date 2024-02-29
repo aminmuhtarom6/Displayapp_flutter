@@ -1,0 +1,24 @@
+{
+    "categories": [
+        {
+            "name": "Velgs",
+            "subcategory": [
+                "Iron Cast Wheel",
+                "Forged",
+                "Flowform",
+                "Press Kaleng"
+            ]
+        },
+        {
+            "name": "Tires",
+            "subcategory": [
+                "All Terrain",
+                "Off-Road",
+                "Highway Terrain",
+                "Comfort",
+                "Performance"
+            ]
+        }
+        
+    ]
+}
